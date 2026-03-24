@@ -1,3 +1,3 @@
-# Projeto Linear
-Projeto linear
+# Pesquisa Linear
+Pesquisa linear
 
